@@ -27,7 +27,7 @@ https://sap-approuter-userapi-humble-vicuna-ic.cfapps.us10-001.hana.ondemand.com
 `
 
 ### Example Response:
-```json
+````
 
 {
     firstname: "Ashutosh",
@@ -40,4 +40,4 @@ https://sap-approuter-userapi-humble-vicuna-ic.cfapps.us10-001.hana.ondemand.com
     displayName: "Ashutosh Joshi (ashutosh-joshi@abc.com)"
 }
 
-```
+````
