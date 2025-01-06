@@ -1,0 +1,8 @@
+applications:
+  - name: sap-approuter-userapi
+    memory: 128M
+    buildpacks:
+      - nodejs_buildpack
+    random-route: true
+    services:
+      - user-api-uaa
